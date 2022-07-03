@@ -48,7 +48,9 @@ ng new apm-new --prefix pm
 # Component
 add img
 
-![[component.png]]
+
+![Component image](Images/component.png)
+
 
 component = template + Class + Metadata 
 
